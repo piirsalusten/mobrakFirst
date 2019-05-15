@@ -12,3 +12,4 @@ Väga positiivne oli see, et juhend ei olnud väga spetsiifiline, mis tähendas,
 SDK versiooni muutsin versiooniks 19, see oli kõige madalam SDK versioon, mida supportis imporditud arcgis library
 
 9. Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel.
+Katsetasin kasutaja locationi saamist erinevate libraryde kaudu, mis kahjuks ei õnnestunud ja tekitas juurde palju probleeme. Saadud kordinaate oleks saanud ära kasutada kaardil locationi näitamisel, mis on hetkel hardcorditud Tallinna kordinaatideks.
